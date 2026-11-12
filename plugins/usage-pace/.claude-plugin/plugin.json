@@ -1,0 +1,13 @@
+{
+  "name": "usage-pace",
+  "version": "0.7.3",
+  "description": "Shows weekly subscription usage against an even daily pace, as a label under the prompt or as bars above it",
+  "author": {
+    "name": "Jason"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/lambda5577/usage-pace",
+  "repository": "https://github.com/lambda5577/usage-pace",
+  "keywords": ["usage", "rate limit", "weekly limit", "subscription", "pace"],
+  "types": "./types/index.d.ts"
+}
